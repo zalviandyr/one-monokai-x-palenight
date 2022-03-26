@@ -1,0 +1,21 @@
+{
+    "name": "one-monokai-x-palenight",
+    "displayName": "One Monokai x Palenight",
+    "description": "Just theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Monokai x Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Monokai x Palenight-color-theme.json"
+            }
+        ]
+    }
+}
