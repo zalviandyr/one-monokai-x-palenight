@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-![Image](./screenshots/1.png)
+![Image](https://github.com/zalviandyr/one-monokai-x-palenight/raw/main/screenshots/1.png)
