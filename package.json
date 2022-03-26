@@ -2,6 +2,7 @@
     "name": "one-monokai-x-palenight",
     "displayName": "One Monokai x Palenight",
     "description": "Just theme",
+    "publisher": "zera",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
